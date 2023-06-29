@@ -1,1 +1,30 @@
+h1{
+    text-align: center;
+    color: purple;
+    font-style: italic;
+}
+.list{
+    font-weight: 700;
+    display: flex;
+    justify-content: space-around;
+    background-color: yellow;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    list-style: none;
+}
+.wrapper{
+    display: flex;
+  gap: 40px;
+}
+body{
+    background-color: lightgrey;
+}
+.box{
+background-color: cyan;
+padding: 10px;
+border: 10px dotted black;
+}
+img{
+    width: 200px;
+}
 
